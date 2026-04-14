@@ -15,9 +15,6 @@ Software Engineering Student • Game Dev Enthusiast • Digital Artist
 <a href="mailto:nathyavila05@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/IsNatthy">
-<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
-</a>
 </p>
 
 ## 🎮 About Me
