@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-Software Engineering Student • Game Dev Enthusiast • Digital Artist
+Software Engineering Student
 </p>
 
 <p align="center">
